@@ -1,0 +1,19 @@
+{
+"name": "JJO-CLIENT",
+"version": "1.0.0",
+"description": "쪼롤 접속을 도와주는 프로그램 입니다.",
+  "main": "index.js",
+  "dependencies": {
+    "app": "^0.1.0",
+    "browser-window": "^0.4.0",
+    "electron": "^4.0.1",
+    "electron-prebuilt": "^1.4.13"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "electron": "electron .",
+    "electron-build": "ng build --prod"
+  },
+  "author": "kimhj050326",
+  "license": "GPL-3.0"
+}
